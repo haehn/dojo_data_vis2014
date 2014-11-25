@@ -1,3 +1,7 @@
+#
+# NOTE: for VI, we need partition_comparison from https://github.com/thouis/partition-comparison
+#
+#
 import partition_comparison as pc
 import mahotas as mh
 import tifffile as tif
